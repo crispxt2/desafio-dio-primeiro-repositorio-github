@@ -1,0 +1,15 @@
+Módulo I - Conteúdo de Abertura
+
+*Boas-vindas ao Bootcamp
+
+*Mentoria - Live
+
+*Pensamento Computacional
+
+*Lógica de Programação Essencial
+
+*Introdução ao Git e ao GitHub
+
+*Projetos ágeis com SCRUM
+
+*I Desafio de Projeto ( criar o primeiro repositório no GitHub para compartilhamento do progresso
